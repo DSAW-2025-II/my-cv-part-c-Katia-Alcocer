@@ -90,3 +90,5 @@ section {
 <img width="1877" height="872" alt="image" src="https://github.com/user-attachments/assets/67bd59ea-b1e9-4d35-8bd3-bd88117903e9" />
 
 
+source of measures
+-https://www.freecodecamp.org/espanol/news/ejemplo-css-media-query-ancho-de-pantalla-max-y-min-para-diseno-adaptable-en-movil/   
